@@ -1,5 +1,8 @@
 Projeto TQI: API para Sistema de Avaliação de Créditos
-‼️ NÃO PENSE QUE É CAPAZ. SAIBA QUE É ‼️
+
+" NÃO PENSE QUE É CAPAZ. SAIBA QUE É "
+
+
  Desafio Proposto
 Dado o cenário abaixo, elabore uma sugestão para o back-end necessária para resolver o problema. Use a criatividade! Você pode explorar aqui todos os seus conhecimentos, demonstrando fluxos, telas, protótipos e/ou codificação. É importante sabermos por que você decidiu fazer a solução, portanto deixe clara a motivação das suas escolhas.
 
@@ -25,8 +28,16 @@ A implementação deve utilizar linguagem Java ou Kotlin.
 
 
 Minha Solução
-Minha idéia de solução para o desafio proposto foi de desenvolver uma API Rest com conexão com Banco de dados para servir de
-Back-End para um site que pode ser desenvolvido pela equipe de Front-End.
+  Minha sugestão para para a empresa de Emprestimos TQI  , é um sistema contendo cadastro de funcionários ,  cadastro de emprestimos , onde tanto o cliente quanto a financeira terão acesso aos emprestimos solicitados pelo cliente . Foi utilizado a Ferramenta NetBeans , Banco de dados Mysql e linguagem JAVA . 
 
  DESENVOLVIMENTO:
-Eu tentei criar esta API utilizando todo o conhecimento adquirido no bootcamp e em outros conteúdos assistidos anteriormente, utilizando boas práticas de desenvolvimento, programação em camadas, injeção de depenência, invesão de controle, atribuição de responsabilidades as classes e interfaces e etc.
+![01-Tela Login](https://user-images.githubusercontent.com/84757811/148665019-564825e3-f438-415b-887e-c686bf038577.png)
+![02-Tela Principal](https://user-images.githubusercontent.com/84757811/148665046-caf6ad26-ae02-44ab-bd7d-9f47b5cd94d3.png)
+![03-Tela Cadastro de clientes](https://user-images.githubusercontent.com/84757811/148665035-ccd17a02-bf66-469f-b07b-ed20e6835e6a.png)
+![04-Tela Cadastro de Emprestimo](https://user-images.githubusercontent.com/84757811/148665061-f31ef5cd-9411-4e18-9c74-a81ce2f4e3fb.png)
+![05-Tela de  Status](https://user-images.githubusercontent.com/84757811/148665066-94566ced-075a-4047-b66a-54776dd0b9cb.png)
+![06-Tela Cliente Sql](https://user-images.githubusercontent.com/84757811/148665069-bba5f60f-3d56-4c81-8ed4-77144e82c061.png)
+![07-Tela Cliente Sql2](https://user-images.githubusercontent.com/84757811/148665074-c773b44a-50ea-462d-b8a0-e0658dea819f.png)
+
+
+
